@@ -34,4 +34,3 @@ I was a locksmith for 10 years before becoming an engineer.
 ### 📱 Contact Details 
 
 - 📫 ryan.rushton79@gmail.com
-- 
