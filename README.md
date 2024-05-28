@@ -23,4 +23,4 @@ I'm Ryan (he/him), a dad, gamer and software engineer working from Brisbane Aust
 - 🔒 Fun Fact: I was a locksmith for 10 years before becoming an engineer
 - 📱 Contact Details: 📫 ryan.rushton79@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-rushton&theme=radical&show_icons=true)
+[![Ryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-rushton&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
