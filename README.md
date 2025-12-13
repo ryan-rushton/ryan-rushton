@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Ryan (he/him), a dad, gamer and software engineer working from Brisbane Australia 🇦🇺.
 
-- 🧑‍🏭 Experience: Frontend engineer (React & TS) for the last few years, previously full stack java
-- 🚀 Passions: API's, systems and their architecture, React & TS, paying down tech debt
-- 🤖 Learning: Started the staff eng journey, currently learning what that means for me, playing around with rust
+- 🧑‍🏭 Experience: Staff engineer working in generative AI systems (technically I specialise in frontend)
+- 🚀 Passions: API's, systems and their architecture, solving hard problems, paying down tech debt
+- 🤖 Learning: Always trying to be a better dad, work im focussing on scallable solutions around LLMs
 - 🔒 Fun Fact: I was a locksmith for 10 years before becoming an engineer
 - 📱 Contact Details: 📫 ryan.rushton79@gmail.com
