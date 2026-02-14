@@ -13,7 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Oi!
+```
+██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
+██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║
+██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║
+██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 
-I'm Ryan, a dad, gamer and software engineer working from Brisbane Australia. 
-I like tinkering with tech and learning new things.
+Roles: Dad | Gamer | Software Engineer
+Region: Brisbane, AU
+
+Status:
+[✔] Production systems stable
+[✔] Small human still alive
+[ ] Sleep (optional)
+
+```
