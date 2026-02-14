@@ -28,5 +28,4 @@ Status:
 [✔] Production systems stable
 [✔] Small human still alive
 [ ] Sleep (optional)
-
 ```
