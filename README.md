@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hey!
+### Oi!
 
-I'm Ryan (he/him), a dad, gamer and software engineer working from Brisbane Australia 🇦🇺.
-
-- 🧑‍🏭 Experience: Staff engineer working in generative AI systems (technically I specialise in frontend)
-- 🚀 Passions: API's, systems and their architecture, solving hard problems, paying down tech debt
-- 🤖 Learning: Always trying to be a better dad, work im focussing on scallable solutions around LLMs
-- 🔒 Fun Fact: I was a locksmith for 10 years before becoming an engineer
-- 📱 Contact Details: 📫 ryan.rushton79@gmail.com
+I'm Ryan, a dad, gamer and software engineer working from Brisbane Australia. 
+I like tinkering with tech and learning new things.
