@@ -27,6 +27,5 @@ Region: Brisbane, AU
 Status:
 [✔] Production systems stable
 [✔] Small human breathing
-[✔] Dreaming about snowboarding
 [ ] Sleep (optional)
 ```
