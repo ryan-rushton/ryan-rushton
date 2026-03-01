@@ -25,7 +25,7 @@ Roles: Dad | Gamer | Software Engineer
 Region: Brisbane, AU
 
 Status:
-[✔] Production systems stable
-[✔] Small human breathing
-[ ] Sleep (optional)
+[x] Well rested
+[✔] Caffine injested
+[>] Thinking process active
 ```
